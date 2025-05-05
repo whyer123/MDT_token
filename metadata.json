@@ -1,0 +1,12 @@
+{
+    "name": "Mother's Day Token",
+    "symbol": "MDT",
+    "description": "A symbolic community token to honor mothers — shaped by love, linked by care.",
+    "image": "https://imgur.com/a/07dAr9c",
+    "decimals": 9,
+    "extensions": {
+      "website": "",
+      "twitter": "",
+      "discord": ""
+    }
+  }
